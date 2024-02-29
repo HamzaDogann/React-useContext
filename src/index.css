@@ -1,0 +1,28 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0;
+}
+
+.App {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  color: rgb(255, 255, 255);
+}
+
+.header {
+  background-color: rgb(205, 52, 52);
+  padding: 20px;
+}
+
+.article {
+  background-color: rgb(83, 152, 182);
+  padding: 20px;
+}
+
+.footer {
+  background-color: rgb(47, 47, 47);
+  height: 100vh;
+  padding: 20px;
+}
